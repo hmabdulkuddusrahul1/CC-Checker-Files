@@ -1,0 +1,2 @@
+Replace stripe secret key in line 31 in api.php
+Upload on host
